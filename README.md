@@ -1,6 +1,6 @@
 # Mixedbread Image Search
 
-A demo application showcasing semantic image search using natural language queries, powered by the [Mixedbread Search API](https://www.mixedbread.com/).
+This minimal template demonstrates how to build semantic image search with natural language queries using the Mixedbread [Search API](https://www.mixedbread.com/).
 
 ## Getting Started
 
@@ -59,7 +59,7 @@ The project includes a script to upload images to your Mixedbread Store:
 bun scripts/upload-images.ts ./public/images
 ```
 
-This will process all images in the `./public/images` directory and upload them to your Store for semantic search.
+This will process all images in the `./public/images` directory and upload them to your Store.
 
 ### 5. Run the Application
 
